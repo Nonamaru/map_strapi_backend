@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ads",
+  "info": {
+    "singularName": "ad",
+    "pluralName": "ads",
+    "displayName": "ad"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "link_to_redirect": {
+      "type": "text"
+    },
+    "link_to_pic": {
+      "type": "text"
+    }
+  }
+}
